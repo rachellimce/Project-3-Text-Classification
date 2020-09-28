@@ -1,7 +1,6 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3
 
-# Project 3: Web APIs & Classification
-
+# Web APIs & Classification
 
 ## Problem Statement
 
@@ -235,4 +234,3 @@ Misclassifications occur when:
 
 **Final Goal:**
 - Topic Modelling and Chatbot creation
-# Project-3-Text-Classification
